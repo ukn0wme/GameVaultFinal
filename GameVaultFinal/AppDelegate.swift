@@ -13,9 +13,19 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+
+        // Customize the tab bar for the entire app
+        UITabBar.appearance().barTintColor = UIColor(named: "DarkBrown")
+        UITabBar.appearance().tintColor = .white
+        UITabBar.appearance().unselectedItemTintColor = .lightGray
+
+        // Customize navigation bar globally
+        UINavigationBar.appearance().barTintColor = UIColor(named: "DarkBrown")
+        UINavigationBar.appearance().titleTextAttributes = [.foregroundColor: UIColor.white]
+
         return true
     }
+
 
     // MARK: UISceneSession Lifecycle
 

@@ -1,3 +1,11 @@
+//
+//  GameDetail.swift
+//  GameVaultFinal
+//
+//  Created by Daniyal Nurgazinov on 25.12.2024.
+//
+
+
 struct GameDetail: Codable {
     let id: Int
     let name: String
