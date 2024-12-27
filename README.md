@@ -26,12 +26,11 @@ GameVault is an iOS app that allows users to explore and favorite their favorite
 
 ## Screenshots & Video
 
-| Lore Page | Details Page | Favorites |
-|-----------|--------------|-----------|
-| ![Lore Page](<img width="437" alt="Screenshot 2024-12-27 at 2 58 11 PM" src="https://github.com/user-attachments/assets/581037a0-1461-4a8c-80a9-14a3b14e9521" />)
-| ![Details Page](<img width="445" alt="Screenshot 2024-12-27 at 2 58 49 PM" src="https://github.com/user-attachments/assets/af5215c9-646c-4289-bd66-1d1cd5b43e50" />)
-| ![Favorites](<img width="451" alt="Screenshot 2024-12-27 at 2 59 27 PM" src="https://github.com/user-attachments/assets/1e29f528-35d5-4251-a2fc-f6438ce65eed" />)
-| https://github.com/user-attachments/assets/f99cdb85-255d-4e2c-a925-7ea08ddc402f
+<img width="437" alt="Screenshot 2024-12-27 at 2 58 11 PM" src="https://github.com/user-attachments/assets/1ad683f8-3fec-45a6-ab13-ac64b405cad9" />
+<img width="445" alt="Screenshot 2024-12-27 at 2 58 49 PM" src="https://github.com/user-attachments/assets/b687a1f2-82e3-4714-ad96-fef7e97d1577" />
+<img width="451" alt="Screenshot 2024-12-27 at 2 59 27 PM" src="https://github.com/user-attachments/assets/034c17cc-16ae-48db-a3a0-c8b3773e45a7" />
+
+VIDEO  -   https://github.com/user-attachments/assets/f99cdb85-255d-4e2c-a925-7ea08ddc402f
 
 
 
